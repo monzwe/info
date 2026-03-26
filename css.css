@@ -21,8 +21,8 @@ h1 {
 }
 h2 {
   font-size: 1.875rem;
-  color: #A72002;
-  text-shadow: 2px 2px #ffffff;
+  color: #ffffff;
+  text-shadow: 1px 1px 3px #000;
 }
 h3 {
   font-size: 1.5rem;
