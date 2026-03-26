@@ -28,10 +28,12 @@ div {
 
 a {
   color: #202020;
+  text-decoration: none;
 }
 a:hover,
 a:focus {
   color: #0085A1;
+  text-decoration: none;
 }
 blockquote {
   color: #808080;
