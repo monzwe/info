@@ -20,11 +20,11 @@ div {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   text-align: left;
-  background-color: #DDDDDD;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+  background-color: #EEEEEE;
+  padding-top: 25px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+  padding-left: 10px;
 
 a {
   color: #202020;
