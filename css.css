@@ -48,7 +48,13 @@ div {
   padding-right: 10px;
   padding-bottom: 25px;
   padding-left: 10px;
-
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
 a {
   color: #202020;
   text-decoration: none;
