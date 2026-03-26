@@ -21,6 +21,10 @@ div {
   font-weight: 800;
   text-align: left;
   background-color: #CCCCCC;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 
 a {
   color: #008AFF;
